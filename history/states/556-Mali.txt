@@ -8,7 +8,7 @@ state={
 
 	history={
 		owner = ENG
-		add_core_of = ENG
+		add_core_of = MLI
 		victory_points = {
 			4927 1
 		}
